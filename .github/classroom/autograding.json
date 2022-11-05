@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 01",
+      "setup": "",
+      "run": "make test",
+      "input": "2 4",
+      "output": "6",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 5
+    }
+  ]
+}
