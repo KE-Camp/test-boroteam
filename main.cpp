@@ -2,6 +2,8 @@
 
 int main()
 {
-  // TO DO - solve the problem
+  int n, m;
+  cin >> n >> m;
+  cout << n + m;
   return 0;
 }
